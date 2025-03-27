@@ -499,7 +499,7 @@
         <mxCell id="aSgvqu7_TZRY2vS9oZxg-77" value="Sign Up" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="40" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aSgvqu7_TZRY2vS9oZxg-80" value="1. Search" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="aSgvqu7_TZRY2vS9oZxg-80" value="Collections Page&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-470" y="310" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
